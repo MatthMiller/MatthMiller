@@ -11,7 +11,6 @@
   
 </div><br>
 
-## Linguagens mais utilizadas
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatthMiller&layout=compact&langs_count=7&theme=tokyonight" />
 <br>
 
