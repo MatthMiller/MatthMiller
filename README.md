@@ -9,7 +9,8 @@
     <img align="center" alt="Electron Js" height="30" width="40" src="https://raw.githubusercontent.com/MatthMiller/devicon/master/icons/electron/electron-original.svg"/>
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   
-</div><br>
+</div>
+</br>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatthMiller&layout=compact&langs_count=7&theme=tokyonight" />
 <br>
