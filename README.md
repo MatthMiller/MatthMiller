@@ -10,12 +10,13 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   
 </div>
-</br>
+
+<br></br>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatthMiller&layout=compact&langs_count=7&theme=tokyonight" />
-<br>
 
-### Portfólio: https://portfolio-matthmiller.vercel.app/
+
+#### Portfólio: https://portfolio-matthmiller.vercel.app/
 
 
 
