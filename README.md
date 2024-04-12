@@ -1,5 +1,5 @@
 ## Tecnologias que utilizo:
-### Front-end
+### Front end
 <div style="display: flex; flex-wrap: wrap; flex-direction: column; gap: 7px">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -12,7 +12,7 @@
 <!--   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
 </div>
 
-### Back-end
+### Back end
 <div style="display: flex; flex-wrap: wrap; flex-direction: column">
   <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />
   <img alt="Phoenix" src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff" /> 
