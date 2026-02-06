@@ -1,4 +1,23 @@
-## Tecnologias que utilizo:
+## 🛡️ Cybersecurity & InfoSec
+
+<div style="display: flex; flex-wrap: wrap; gap: 7px">
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+### 🎯 Foco de Estudo:
+* **Defensive Analysis:** Monitoramento de redes, análise de logs e resposta a incidentes.
+* **Web Security & Pentest:** Exploração de vulnerabilidades (OWASP Top 10) utilizando Burp Suite.
+* **Plataformas:** PortSwigger Academy e TryHackMe.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/matthmiller.png" alt="Badge TryHackMe" />
+
+---
+
+## 💻 Tecnologias de Desenvolvimento:
 ### Front end
 <div style="display: flex; flex-wrap: wrap; flex-direction: column; gap: 7px">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
@@ -12,35 +31,24 @@
 <!--   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
 </div>
 
+
+
 ### Back end
 <div style="display: flex; flex-wrap: wrap; flex-direction: column">
+  <img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Adonis" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white"/>
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-  <img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
   <img alt="JWT/JSON Web Token" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 </div>
 
 ### Utilitários/Ferramentas
 <div style="display: inline_block;">
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
-<!-- <br></br>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatthMiller&layout=compact&langs_count=7&theme=tokyonight" />
-
-
-#### 
--->
-
-
-
-
