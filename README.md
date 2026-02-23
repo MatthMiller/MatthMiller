@@ -10,7 +10,7 @@
 
 ### 🎯 Foco de Estudo:
 * **Defensive Analysis:** Monitoramento de redes, análise de logs e resposta a incidentes.
-* **Web Security & Pentest:** Exploração de vulnerabilidades (OWASP Top 10) utilizando Burp Suite.
+* **Web Security & Pentest:** Exploração de vulnerabilidades (OWASP Top 10).
 * **Plataformas:** PortSwigger Academy e TryHackMe.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/matthmiller.png" alt="Badge TryHackMe" />
