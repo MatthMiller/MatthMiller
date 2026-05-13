@@ -8,13 +8,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-### 🎯 Foco de Estudo:
-* **Defensive Analysis:** Monitoramento de redes, análise de logs e resposta a incidentes.
-* **Web Security & Pentest:** Exploração de vulnerabilidades (OWASP Top 10).
-* **Plataformas:** PortSwigger Academy e TryHackMe.
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/matthmiller.png" alt="Badge TryHackMe" />
-
 ---
 
 ## 💻 Tecnologias de Desenvolvimento:
